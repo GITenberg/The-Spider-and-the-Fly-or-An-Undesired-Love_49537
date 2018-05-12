@@ -1,4 +1,8 @@
 _repo: The-Spider-and-the-Fly-or-An-Undesired-Love_49537
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49537-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Garvice, Charles
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3498
     wikipedia: http://en.wikipedia.org/wiki/Charles_Garvice
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49537#The-Spider-and-the-Fly-or-An-Undesired-Love
 gutenberg_issued: '2015-07-28'
 gutenberg_type: Text
 identifiers:
